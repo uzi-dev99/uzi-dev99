@@ -42,7 +42,7 @@ Software engineer in Buenos Aires (UTC−3). For six years I've worked on anti-m
 
 ## open work
 
-| | |
+| project | what it is |
 |---|---|
 | **[Astrolabio](https://github.com/uzi-dev99/golden-matrix-demo)** | The open demo of an AI product running in production: a chart computed on the server, the exact prompt shown and fenced against injection, a streamed report with latency, tokens and cost, and provider fallback. Engine validated against Swiss Ephemeris within ±0.02°. |
 | **[An album for two](https://github.com/uzi-dev99/pareja-web-demo)** | Creative frontend: curved photo marquee, a 3D carousel per month and a pixel-art room. Installable PWA, 376 passing tests. |
